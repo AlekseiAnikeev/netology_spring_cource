@@ -4,8 +4,7 @@
 
 # Web
 - [HTTP и современный Web](https://github.com/AlekseiAnikeev/http_web)
-- [Формы и форматы передачи данных]()
-- [JS, Ajax, REST, JSON, CORS]()
+- [Формы и форматы передачи данных](https://github.com/AlekseiAnikeev/forms)
 
 # Java EE, Java Servlets
 - [Servlet Containers]()
