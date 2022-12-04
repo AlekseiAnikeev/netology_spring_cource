@@ -7,8 +7,7 @@
 - [Формы и форматы передачи данных](https://github.com/AlekseiAnikeev/forms)
 
 # Java EE, Java Servlets
-- [Servlet Containers]()
-- [Dependency Lookup, Dependency Injection, IoC, Spring, Application Context]()
+- [Servlet Containers, Dependency Lookup, Dependency Injection, IoC, Spring, Application Context](https://github.com/AlekseiAnikeev/servlet)
 - [Spring Web MVC]()
 
 # Spring Boot
